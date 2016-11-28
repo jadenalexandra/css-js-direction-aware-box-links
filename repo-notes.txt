@@ -1,0 +1,10 @@
+Source: http://cssdeck.com/labs/direction-aware-hover-effect
+Demo: http://cssdeck.com/labs/full/direction-aware-hover-effect
+
+NOTES 11/27/2016
+
+File names wrong in the uinitial commit. Find the corect names and fix:
+
+html.html
+css.css
+js.js
