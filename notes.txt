@@ -7,4 +7,3 @@ File names wrong in the uinitial commit. Find the corect names and fix:
 
 html.html
 css.css
-js.js
